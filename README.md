@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hong
 
-I'm a passionate **Full-Stack Web Developer** from Cambodia, building modern, efficient, and scalable web applications. I love working with **Laravel, PHP, React, MongoDB, MySQL**, and more.
+I'm a passionate ** Web Developer** from Cambodia, building modern, efficient, and scalable web applications. I love working with **Laravel, PHP, React, MongoDB, MySQL**, and more.
 
 ---
 
@@ -9,19 +9,10 @@ I'm a passionate **Full-Stack Web Developer** from Cambodia, building modern, ef
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React, Vue.js  
 - **Backend:** PHP, Laravel 
 - **Database:** MySQL, MongoDB, Redis, SQLite  
-- **Other:** Git, REST APIs, Stripe Payments, Firebase  
+
 
 ---
 
-## 🔭 Projects
-
-Here are some projects I’ve worked on:
-
-- **E-Commerce Platform** – Multi-user website with React frontend and Laravel backend.  
-- **Admin Dashboard** – Product management, CRUD operations, image uploads, and live editing.  
-- **MERN Stack Apps** – Full CRUD applications with React and MongoDB backend.  
-
----
 
 ## 🌱 Learning
 
